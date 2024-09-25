@@ -1,8 +1,6 @@
 # Demo
 
-Some description!
-
-## Subheader
+Some description
 
 Watch Tutorial on YouTube.
 
